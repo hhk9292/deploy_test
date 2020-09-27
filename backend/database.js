@@ -1,11 +1,5 @@
 const mysql = require('mysql')
-const db_info = {
-    host: 'localhost',
-    port: '3306',
-    user: 'root',
-    password: 'gurgh123',
-    database: 'my_db'
-}
+const db_info = require('db_config.json')
 
 module.exports = {
     init: function () {
