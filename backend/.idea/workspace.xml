@@ -21,13 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="30856435-37e2-4a38-b923-199e4d0ba07b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/vue.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frontend" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -77,6 +70,9 @@
       <workItem from="1601186083233" duration="6328000" />
       <workItem from="1601192430049" duration="6000" />
       <workItem from="1601194536824" duration="438000" />
+      <workItem from="1601196079690" duration="3895000" />
+      <workItem from="1601204386455" duration="224000" />
+      <workItem from="1601205192060" duration="1021000" />
     </task>
     <servers />
   </component>
@@ -96,10 +92,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="636" y="292" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601192434470">
+    <state x="636" y="292" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601205643679">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="636" y="292" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1200@67.27.1853.1053" timestamp="1601192434470" />
+    <state x="636" y="292" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1200@67.27.1853.1053" timestamp="1601205643679" />
     <state x="493" y="166" key="SettingsEditor" timestamp="1601186299665">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
