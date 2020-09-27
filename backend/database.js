@@ -1,5 +1,5 @@
 const mysql = require('mysql')
-const db_info = require('db_config.json')
+const db_info = require('./config/db_config.json')
 
 module.exports = {
     init: function () {
